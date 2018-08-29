@@ -2772,3 +2772,12 @@ article.testi_post .post_content > .icon-quote-left {color: #373737;float: left;
 #mainpage_accordion_area .testi_post .post_header {
 	margin-bottom: 20px;
 }
+
+#links .resume_category {
+	margin: 0;
+	padding: 20px;
+}
+
+#links .category_header .post_title:first-child {
+	margin-bottom: 5px;
+}
